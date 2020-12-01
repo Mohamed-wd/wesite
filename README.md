@@ -1,2 +1,2 @@
 # website
-build a wesite with css  and html
+build a website with css  and html
