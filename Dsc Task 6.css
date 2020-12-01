@@ -1,0 +1,107 @@
+*{
+    overflow: auto;
+  }
+  /*  Start First Section */
+.backgroundtext{
+    background-color: #DCDCDC;
+    margin: 60px 0; 
+}  
+.text{
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+.text h1{
+    color: #FF3D00;
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    text-align: center;
+    font-size: 30px;
+}
+.text p{
+    line-height: 2rem;
+    color: #546E7A;
+    margin: 0 150px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.backgroundphotos{
+    float: right;
+    width: 50%;
+}
+.backgroundimage{
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+.photo1{
+    border-radius: 25px;
+    width:130px;
+    height: 130px;
+    position: absolute;
+    bottom: 160px;
+    right: 590px;
+}
+.photo2{
+    border-radius: 25px;
+    width:130px;
+    height: 130px;
+    position: absolute;
+    bottom: 160px;
+    right: 430px;
+}
+.photo3{
+    border-radius: 25px;
+    width:130px;
+    height: 130px;
+    position: absolute;
+    bottom: 160px;
+    right: 270px;
+}
+/* End First Section */
+/* Start Main Section */
+.twetssection{
+    margin: 60px 230px;
+    line-height: 2rem;
+}
+.twetssection h1{
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 2.5rem;
+    font-size: 35px;
+}
+.twets{
+    float: left;
+    width: 300px;
+    background-color: #DCDCDC;
+    margin: 20px 20px;
+} 
+.photoinfo{
+  margin-left: 20px;
+  text-align: left;
+}
+.developers{
+    margin-left: 20px;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
+.figCaptionphoto{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+} 
+.photoCaption{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 10px;
+    padding-bottom: 30px;
+}
+/* End Main Section */
